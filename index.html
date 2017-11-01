@@ -1,0 +1,50 @@
+---
+layout: page
+title: 
+---
+
+<article>
+<header>
+Welcome!
+</header>
+<section>
+<p>
+Welcome to the Audiophile Club website!
+</p>
+<p>
+Every week, we will have listening sessions where you can come explore new music. Join &amp; suggest us what to play! One of our goals is to have everyone discover music outside of their taste and see how other people appreciate them. Along with that, we'll also have bring in a topic each week that might interest you. The topics can range from quantifying listening devices &amp; hi-fi systems, room acoustics, sound processing, maths behind music; to topics like history &amp; characteristics of a genre, music theory, band-forming &amp; music distribution.  
+</p>
+<p>
+Occasionally, we would have professional guests come talk as well! You can check out our <a href="/events">list of events</a>. Our <a href="/first">first meeting</a> is coming soon!
+</p>
+</section>
+</article>
+
+<article>
+<header>
+Upcoming Events
+</header>
+<section>
+<div class="links">
+  {% for post in site.categories["event"] limit:5 %}
+    <a href="{{ post.url }}">{{ post.title }}</a> // {{ post.ev_when }}
+	<br/>
+  {% endfor %}
+</div>
+</section>
+</article>
+
+{% assign post = site.categories["blog"].first %}
+<article>
+<header>
+Latest Blog Post: {{ post.title }}
+</header>
+<section>
+{{ post.content }}
+</section>
+<footer>
+	<i></i> Posted by {{ post.author }} on {{post.date | date_to_long_string}}.
+	<br>
+	<div class="links"><a href="{{post.url}}">Go to Post</a></div>
+</footer>
+</article>

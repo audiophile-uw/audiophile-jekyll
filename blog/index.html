@@ -1,0 +1,16 @@
+---
+layout: page
+title: Blog Listing
+---
+
+<p>
+	Find posts by: <a href="/blog/tag">Tags</a>
+</p>
+
+<ul class="links">
+  {% for post in site.categories["blog"] %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> // {{ post.date | date_to_string }}
+    </li>
+  {% endfor %}
+</ul>

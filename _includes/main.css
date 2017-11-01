@@ -1,0 +1,58 @@
+::selection {
+  background: #e8e3d3;
+  color: #3b1e73;
+}
+::-moz-selection {
+  background: #e8e3d3; 
+  color: #3b1e73
+}
+
+body::-webkit-scrollbar {
+    width: 1em;
+}
+ 
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(59, 30, 115, 0.5);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: #3b1e73;
+}
+
+@font-face {
+  font-family: 'fontello';
+  src: url('/assets/fontello.eot');
+  src: url('/assets/fontello.eot') format('embedded-opentype'),
+		url('/assets/fontello.woff') format('woff'),
+		url('/assets/fontello.ttf') format('truetype'),
+		url('/assets/fontello.svg') format('svg');
+}
+i { font-family: 'fontello'; font-style: normal; speak: none; }
+a>i:first-child { margin-right: .7em; }
+body {
+	margin: 1% auto;
+	padding: 10px; max-width: 650px;
+	background: #fafafd; color: #3b1e73;
+	font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Fira Sans','Droid Sans','Helvetica Neue';
+}
+a,.btn {
+	display: inline-block; padding: 0 10px; background-color: #3b1e73; color: #fafafa;
+	text-decoration: none; font-weight: bold; border: none; cursor: pointer; height: 2em;
+}
+.links a { line-height: 2em; margin: 0 auto 5px auto; }
+input[type="email"] { height: 2em; box-sizing: border-box; border: 2px solid #3b1e73; padding: 5px; }
+article {
+	border: 5px solid; margin: 25px 0;
+}
+main {
+	line-height: 2em;
+}
+article>* {
+	padding: 15px; 
+}
+article>header {
+	background: #3b1e73; color: #fafafa; font-size: 140%; font-weight: bold;
+}
+article>footer, body>footer {
+	font-style: italic; font-size: 90%;
+}
