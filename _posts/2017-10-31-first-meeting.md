@@ -14,6 +14,8 @@ permalink: /first
 
 {% include ev.md page=page %}
 
+[Facebook Event RSVP](https://www.facebook.com/events/295010017683779/)
+
 I'll be going over the main plans for the group, what its visions are, all that jazz.
 
 Since it's going to be more than 2 hours long and I don't think I'll go over the club's plan for more than one hour. We'll play some music as well. Thomson 335 does not have a good speaker system, I'll try to find a better room or bring equipment soon.
