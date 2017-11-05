@@ -26,7 +26,7 @@
 			<br>
 			<div class="links">Tags: 
 			{% for tag in page.tag %}
-				<a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+				<a class="tag" href="/blog/tag#{{ tag | slugify }}">{{ tag }}</a>
 			{% endfor %}
 			</div>
 		</footer>
