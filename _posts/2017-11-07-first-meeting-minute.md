@@ -44,7 +44,9 @@ Stuff other people mentioned:
 It was suggested that we have a Discord server. I've set up one. Use this link to join/invite: [https://discord.io/audiouw](https://discord.io/audiouw) 
 This is now also at the footer of the page.
 
-I'm still waiting for SAO to return to me with the UWNetID so I can set up an RSO email and a mailing list. Stay tuned.
+Mailing list is now available at: [this link](https://mailman1.u.washington.edu/mailman/listinfo/flac)
+
+Or email to flac-request *at* mailman.u.washington.edu with the subject "subscribe" to subscribe.
 
 ## Next week
 
