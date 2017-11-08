@@ -42,11 +42,12 @@ Stuff other people mentioned:
 ## Discord & Communications
 
 It was suggested that we have a Discord server. I've set up one. Use this link to join/invite: [https://discord.io/audiouw](https://discord.io/audiouw) 
-This is now also at the footer of the page.
 
 Mailing list is now available at: [this link](https://mailman1.u.washington.edu/mailman/listinfo/flac)
 
 Or email to flac-request *at* mailman.u.washington.edu with the subject "subscribe" to subscribe.
+
+These two are now also at the footer of the page.
 
 ## Next week
 
