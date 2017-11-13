@@ -6,17 +6,24 @@ permalink: /resources
 
 This is a cumulative list of resources. The link can be either contain software, articles, tutorials or books. The content at the links are not in any way affiliated with Audiophile Club and can be dead or modified in the future. You can contribute to this list by creating an issue or make a pull request to `audiophile-jekyll` repository; or just email.
 
-### Audiophile (Room acoustics, Frequency Response, etc.)
+### Audio Equipment Resources/Testing
 * [Headphones Frequency Response Comparison Tool](http://graphs.headphone.com/)
+* [audiocheck.net](http://www.audiocheck.net/)
 
 ### Books
-* [Glenn White, Gary Louie - The Audio Dictionary](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=CP71186877240001451&context=L&vid=UW&search_scope=all&tab=default_tab&lang=en_US) (free for UW)
+
+Some books can be found in the [UW Lib](https://lib.washington.edu/) for free access/checkout with UWNetID.
+
+* [Glenn White, Gary Louie - The Audio Dictionary](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=CP71186877240001451&context=L&vid=UW&search_scope=all&tab=default_tab&lang=en_US)
 * [Steven Smith - The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/)
 
 ### Hardware 
 
 ### Mathematics and Physics
 * [Interactive Guide to Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+
+### Miscellaneous
+* [Djen Metal Generator](https://djen.co/)
 
 ### History & Culture
 * [Guidonian Hand (Video)](https://www.youtube.com/watch?v=eBq-S_QdU2U)
@@ -34,6 +41,8 @@ This is a cumulative list of resources. The link can be either contain software,
 * [Reason](https://www.propellerheads.se/en/reason) (non-free)
 * [Renoise](https://www.renoise.com/) (non-free)
 
+#### Mixing / Mastering
+
 #### Music Trackers
 * [FamiTracker](http://famitracker.com/)
 * [Klystrack](https://kometbomb.github.io/klystrack/)
@@ -42,8 +51,8 @@ This is a cumulative list of resources. The link can be either contain software,
 
 #### Editing
 * [Audacity](http://www.audacityteam.org/)
+* [Virtual ANS](http://www.warmplace.ru/soft/ans/) 
 
-#### Mixing / Mastering
 
 ### Signal Processing (Sound Synthesis, Sound Effects)
 #### Visual languages & Modular Based

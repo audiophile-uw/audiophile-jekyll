@@ -37,7 +37,7 @@ body {
 }
 a,.btn {
 	display: inline-block; padding: 0 10px; background-color: #3b1e73; color: #fafafa;
-	text-decoration: none; font-weight: bold; border: none; cursor: pointer; height: 2em;
+	text-decoration: none; font-weight: bold; border: none; cursor: pointer; border-bottom: 1px white outset;
 }
 .links a { line-height: 2em; margin: 0 auto 5px auto; }
 input[type="email"] { height: 2em; box-sizing: border-box; border: 2px solid #3b1e73; padding: 5px; }
