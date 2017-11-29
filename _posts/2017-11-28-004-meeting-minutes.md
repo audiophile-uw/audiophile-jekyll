@@ -11,3 +11,9 @@ MIDI file structure:
 
 * [ref](https://www.csie.ntu.edu.tw/~r92092/ref/midi/)
 * [cc msg](https://www.midi.org/specifications/item/table-3-control-change-messages-data-bytes-2)
+
+Stuff mentioned:
+
+* KeyScape
+* Soundfonts
+* VST/AUs
